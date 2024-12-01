@@ -1,0 +1,11 @@
+Query,Intent,Entities,Sentiment,Response
+What is my account balance?,Balance Inquiry,account balance,Neutral,"Your account balance is $1,250. Please log in to the app for detailed statements."
+How do I apply for a car loan?,Loan Application,car loan,Neutral,You can apply for a car loan by visiting our website or contacting your nearest branch.
+I want to block my lost debit card.,Card Block Request,debit card,Negative,We have blocked your debit card. Please contact customer service for further assistance.
+Your app is very user-friendly!,Feedback,app,Positive,Thank you for your feedback! We're glad you enjoy using our app.
+How can I reset my login password?,Password Reset,password,Neutral,"To reset your login password, click 'Forgot Password' on the login page and follow the instructions."
+What are the current interest rates for home loans?,Interest Rate Inquiry,home loans,Neutral,The current interest rate for home loans is 6.75%. Please visit our website for detailed terms.
+How can I dispute a transaction?,Transaction Dispute,transaction,Negative,You can dispute a transaction by visiting the 'Dispute Transactions' section in your app or contacting our support team.
+I need help setting up internet banking.,Setup Assistance,internet banking,Neutral,"To set up internet banking, please visit our website and click on 'Register for Internet Banking'."
+My credit card payment is due. Can I pay through the app?,Credit Card Payment,credit card payment,Neutral,"Yes, you can pay your credit card bill through the app under the 'Payments' section."
+What should I do if I forget my ATM PIN?,ATM PIN Reset,ATM PIN,Neutral,"To reset your ATM PIN, visit the nearest ATM or use our mobile app under the 'Services' section."
