@@ -12,7 +12,7 @@ class Chatbot:
 
         # Load dataset
         try:
-            self.dataset = pd.read_csv(r"C:\chatbot-codes\banking-chatbot\data\dataset.csv")
+            self.dataset = pd.read_csv(absolute_path)
             print("Dataset loaded successfully!")
             print("Dataset preview:", self.dataset.head())  # Show first few rows for verification
         except FileNotFoundError:
