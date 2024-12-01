@@ -47,7 +47,7 @@ class Chatbot:
 
 if __name__ == "__main__":
     # Initialize the chatbot with the dataset
-    chatbot = Chatbot("data/dataset.csv")  # Ensure the path is correct
+    chatbot = Chatbot(r"C:\chatbot-codes\banking-chatbot\data\dataset.csv")  # Ensure the path is correct
 
     # Test a query
     user_query = "What is my account balance?"
