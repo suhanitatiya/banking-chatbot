@@ -46,7 +46,7 @@ class Chatbot:
             return response
 
 if __name__ == "__main__":
-    dataset_path = os.getenv("DATASET_PATH", r"C:\chatbot-codes\banking-chatbot\data\dataset.csv")
+    dataset_path = os.getenv("DATASET_PATH", "data\dataset.csv")
     chatbot = Chatbot(dataset_path)
 
 
